@@ -4,4 +4,4 @@ This is a research based report I completed in my first year of university, anal
 * This report received a score of 76% (First-Class standard) for its presentation, research depth, global economic analysis and overall coherence.
 * Skills demonstrated: macroeconomic analysis, literature review, academic referencing, report structuring, policy evaluation
 
-* Full Report: [The Need for Economic Reforms in India during the 1991 Crisis (PDF)](https://1drv.ms/b/c/b477acc3ceaa894e/IQBh-nlI6MgZQo0-kL-wCN3LATS1QC5Bhu3vFaNKnLxj2_A?e=w8MujG)
+Full Report: [The Need for Economic Reforms in India during the 1991 Crisis (PDF)](https://1drv.ms/b/c/b477acc3ceaa894e/IQBh-nlI6MgZQo0-kL-wCN3LATS1QC5Bhu3vFaNKnLxj2_A?e=w8MujG)
