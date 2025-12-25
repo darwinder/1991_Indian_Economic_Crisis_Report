@@ -1,8 +1,8 @@
 # 1991 Indian Economic Crisis Report
 ### Overview
 This is a research-based report I completed in my first year of university, analysing the macroeconomic causes of the 1991 Indian Economic Crisis to explain the rationale behind the economic reforms that followed.
-### Methodology and Tools
-- Independent research
+### Methodology & Tools
+- Independent research & literature review
 - Use of secondary macroeconomic data
 - Institutional evidence from the World Bank and the Reserve Bank of India
 - Visualization of data using MS Excel
